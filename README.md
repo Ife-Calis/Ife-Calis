@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ife-Calis
-# 🌱 I’m currently a `student` learning Software engineering at ALX.
+## 🌱 I’m currently a `student` learning Software engineering at ALX.
 - 👀 I’m interested in web developer,gaming & coding.
 - 💞️ I’m looking to collaborate on simple_shell.
 - 📫 How to reach me on twitter @a_calistus
