@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Ifechukwu+Anyika;Frontend+Developer;Web+Designer;React+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Ifechukwu+Anyika;Frontend+Developer;Web+Designer;React+Developer;Building+Modern+Web+Experiences" />
+
+</div>
 
 ### 🚀 Frontend Developer | Web Designer
 
