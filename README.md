@@ -48,11 +48,17 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ife-Calis&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ife-Calis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60" height="180"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ife-Calis&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ife-Calis&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ife-Calis&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ife-Calis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="180"/>
+</p>
 
 ---
 
