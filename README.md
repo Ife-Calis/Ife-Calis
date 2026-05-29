@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ifechukwu+Anyika;Frontend+Developer;Web+Designer;React+Developer;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Ifechukwu+Anyika;Frontend+Developer;Web+Designer;React+Developer;Building+Modern+Web+Experiences" />
 
 </div>
 
