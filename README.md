@@ -33,7 +33,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,note++" />
+  <img src="https://skillicons.dev/icons?i=git,github,note++,vscode" />
 </p>
 
 ### Additional Skills
